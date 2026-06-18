@@ -44,3 +44,7 @@ El código fuente está modularizado en los siguientes paquetes para separar res
 * `services`: Capa de lógica de negocio y gestión de colecciones en memoria.
 * `exception`: Clases para el manejo de excepciones personalizadas.
 * `interfaces`: Contratos de comportamiento común.
+
+### Links:
+
+[Video YouTube](https://youtu.be/8wXQdcj-8t4)
